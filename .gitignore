@@ -5,3 +5,4 @@ checkpoints/*
 metrics/*
 images/*
 __pycache__/*
+drafts/*
