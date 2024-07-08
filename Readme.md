@@ -7,7 +7,7 @@ Dataset-source is: <a href='https://www.kaggle.com/datasets/prasoonkottarathil/g
 
 A notebook related to this project also was published on the Kaggle: *here*
 
-## Inroducing
+## Introducing
 This project is the realization of the DCGAN model on the Keras. The main goal is to generate anime faces with a resolution of 128x128 px. The higher resolution requires more time and resources to train the model. 
 
 ## Generator architecture
